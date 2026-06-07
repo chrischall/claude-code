@@ -60,7 +60,7 @@
     "@codemirror/view": "^6.34.3",
     "@codemirror/commands": "^6.7.1",
     "web-vitals": "^4.2.4",
-    "@sentry/nextjs": "^8.45.0"
+    "@sentry/nextjs": "^10.56.0"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^14.2.0",
